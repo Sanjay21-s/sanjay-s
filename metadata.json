@@ -1,0 +1,6 @@
+{
+  "name": "PhishInspect",
+  "description": "PhishInspect: Fake Offer Letter & Phishing Inspector — Evaluates job offers, employment contracts, lease agreements, and company URLs for phishing, advance-fee fraud, and rental deposit traps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
